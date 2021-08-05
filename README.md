@@ -22,4 +22,5 @@
 12. MobiCom 2022- The 28th Annual International Conference On Mobile Computing And Networking- https://www.sigmobile.org/mobicom/2022/
 13. 19th USENIX Symposium on Networked Systems Design and Implementation (NSDI '22) - https://www.usenix.org/conference/nsdi22/call-for-papers
 14. IEEE Wireless Communications and Networking Conference 2022 - https://wcnc2022.ieee-wcnc.org/authors/call-papers
-15. 
+15. EAI MobiQuitous 2021 - 18th EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services- https://mobiquitous.eai-conferences.org/2021/
+16. IEEE Wireless Communications and Networking Conference- https://wcnc2022.ieee-wcnc.org/authors/call-papers
