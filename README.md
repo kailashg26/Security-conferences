@@ -5,6 +5,7 @@
 * http://jianying.space/conference-ranking.html
 * https://people.engr.tamu.edu/guofei/sec_conf_stat.htm
 * https://sites.cs.ucsb.edu/~almeroth/conf/stats/
+* journals: https://research.com/journals-rankings/computer-science/2021/computer-security-cryptography
 
 # Network Security Conferences
 
