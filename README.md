@@ -45,4 +45,4 @@ Security conferences 2022
     Conference: Jun 29-Jul 1, 2022, Cagliari, Italy
 
 3. RAID 2022 (TBA)
-4. 
+
