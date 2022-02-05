@@ -25,3 +25,24 @@
 14. IEEE Wireless Communications and Networking Conference 2022 - https://wcnc2022.ieee-wcnc.org/authors/call-papers
 15. EAI MobiQuitous 2021 - 18th EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services- https://mobiquitous.eai-conferences.org/2021/
 16. IEEE Wireless Communications and Networking Conference- https://wcnc2022.ieee-wcnc.org/authors/call-papers
+
+
+Security conferences 2022
+1. CCS
+    Second Review Cycle
+    Paper submission deadline: May 2, 2022
+    Rebuttal period: June 19-July 7, 2022
+    Author notification: July 15, 2022
+    Resubmission of revised papers: August 12, 2022
+    Decisions on revised papers: August 27, 2022
+    Camera-ready deadline: September 7, 2022
+ 
+ 2. DIMVA 19th Conference on Detection of Intrusions and Malware & Vulnerability Assessment
+ 
+    Submission: Mar 10, 2022
+    Notification: Apr 30, 2022
+    Camera-ready deadline: May 10, 2022
+    Conference: Jun 29-Jul 1, 2022, Cagliari, Italy
+
+3. RAID 2022 (TBA)
+4. 
